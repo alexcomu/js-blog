@@ -1,0 +1,18 @@
+Simple Collection of blog built in NodeJs.
+I'm using Dispatcher module to manage routing.
+
+Requirements:
+
+* npm install httpdispatcher
+
+Usage:
+
+* node FILE.js
+
+Or:
+
+* nodemon FILE.js
+
+Check on your browser:
+
+http://localhost:8080
